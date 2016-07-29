@@ -1,0 +1,15 @@
+//
+//  BW-Prefix.pch
+//  Challenge
+//
+//  Created by 王貝 on 7/27/16.
+//  Copyright © 2016 Begodya. All rights reserved.
+//
+
+#ifndef BW_Prefix_pch
+#define BW_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* BW_Prefix_pch */
